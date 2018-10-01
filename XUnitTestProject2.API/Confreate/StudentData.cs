@@ -18,5 +18,11 @@ namespace XUnitTestProject2.API.Confreate
         {
             return _db.Students.ToList();
         }
+
+        public void postData(Student studentobj)
+        {
+            _db.Add(studentobj);
+            _db.SaveChanges();
+        }
     }
 }
