@@ -28,11 +28,11 @@ namespace XUnitTestProject2.API
         public void ConfigureServices(IServiceCollection services)
         {
            
-           
+
             services.AddMvc();
-            var connection = @"Server=DESKTOP-KK1QB16;Database=StudentDb;Trusted_Connection=True";
+            var connection = @"Server=DESKTOP-KK1QB16;Database=StuDb;Trusted_Connection=True";
             services.AddDbContext<StudentDbContext>(options => options.UseSqlServer(connection));
-            services.AddScoped<IStudentData, StudentData>();
+            services.AddTransient<IStudentData, StudentData>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
