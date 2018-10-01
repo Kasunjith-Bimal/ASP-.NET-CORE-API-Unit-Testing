@@ -1,0 +1,17 @@
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\bin\Debug\netcoreapp2.0\XUnitTestProject2.deps.json
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\bin\Debug\netcoreapp2.0\XUnitTestProject2.runtimeconfig.json
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\bin\Debug\netcoreapp2.0\XUnitTestProject2.runtimeconfig.dev.json
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\bin\Debug\netcoreapp2.0\XUnitTestProject2.dll
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\bin\Debug\netcoreapp2.0\XUnitTestProject2.pdb
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\bin\Debug\netcoreapp2.0\XUnitTestProject2.API.dll
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\bin\Debug\netcoreapp2.0\XUnitTestProject2.API.pdb
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\obj\Debug\netcoreapp2.0\XUnitTestProject2.csprojResolveAssemblyReference.cache
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\obj\Debug\netcoreapp2.0\XUnitTestProject2.csproj.CoreCompileInputs.cache
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\obj\Debug\netcoreapp2.0\XUnitTestProject2.AssemblyInfoInputs.cache
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\obj\Debug\netcoreapp2.0\XUnitTestProject2.AssemblyInfo.cs
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\obj\Debug\netcoreapp2.0\XUnitTestProject2.csproj.CopyComplete
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\obj\Debug\netcoreapp2.0\XUnitTestProject2.dll
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2\obj\Debug\netcoreapp2.0\XUnitTestProject2.pdb

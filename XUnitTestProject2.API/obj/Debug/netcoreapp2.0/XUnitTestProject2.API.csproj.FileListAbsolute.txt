@@ -1,0 +1,10 @@
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2.API\bin\Debug\netcoreapp2.0\XUnitTestProject2.API.deps.json
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2.API\bin\Debug\netcoreapp2.0\XUnitTestProject2.API.runtimeconfig.json
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2.API\bin\Debug\netcoreapp2.0\XUnitTestProject2.API.runtimeconfig.dev.json
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2.API\bin\Debug\netcoreapp2.0\XUnitTestProject2.API.dll
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2.API\bin\Debug\netcoreapp2.0\XUnitTestProject2.API.pdb
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2.API\obj\Debug\netcoreapp2.0\XUnitTestProject2.API.csproj.CoreCompileInputs.cache
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2.API\obj\Debug\netcoreapp2.0\XUnitTestProject2.API.AssemblyInfoInputs.cache
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2.API\obj\Debug\netcoreapp2.0\XUnitTestProject2.API.AssemblyInfo.cs
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2.API\obj\Debug\netcoreapp2.0\XUnitTestProject2.API.dll
+c:\users\rika\source\repos\XUnitTestProject2\XUnitTestProject2.API\obj\Debug\netcoreapp2.0\XUnitTestProject2.API.pdb
