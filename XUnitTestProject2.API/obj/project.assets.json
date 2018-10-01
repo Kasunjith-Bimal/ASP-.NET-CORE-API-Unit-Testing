@@ -13124,11 +13124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rika\\Desktop\\UnitTesting\\ASP-.NET-CORE-API-Unit-Testing\\XUnitTestProject2.API\\XUnitTestProject2.API.csproj",
+      "projectUniqueName": "C:\\Users\\Rika\\Desktop\\ASP-.NET-CORE-API-Unit-Testing\\XUnitTestProject2.API\\XUnitTestProject2.API.csproj",
       "projectName": "XUnitTestProject2.API",
-      "projectPath": "C:\\Users\\Rika\\Desktop\\UnitTesting\\ASP-.NET-CORE-API-Unit-Testing\\XUnitTestProject2.API\\XUnitTestProject2.API.csproj",
+      "projectPath": "C:\\Users\\Rika\\Desktop\\ASP-.NET-CORE-API-Unit-Testing\\XUnitTestProject2.API\\XUnitTestProject2.API.csproj",
       "packagesPath": "C:\\Users\\Rika\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rika\\Desktop\\UnitTesting\\ASP-.NET-CORE-API-Unit-Testing\\XUnitTestProject2.API\\obj\\",
+      "outputPath": "C:\\Users\\Rika\\Desktop\\ASP-.NET-CORE-API-Unit-Testing\\XUnitTestProject2.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
