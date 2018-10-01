@@ -34,8 +34,9 @@ namespace XUnitTestProject2.API.Controllers
 
         // POST api/<controller>
         [HttpPost]
-        public void Post([FromBody]string value)
+        public void Post([FromBody]Student value)
         {
+            _studentdata.postData(value);
         }
 
         // PUT api/<controller>/5

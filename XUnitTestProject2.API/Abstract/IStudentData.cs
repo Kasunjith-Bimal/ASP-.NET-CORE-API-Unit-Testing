@@ -9,5 +9,7 @@ namespace XUnitTestProject2.API.Abstract
     public interface IStudentData
     {
         List<Student> getAllStudent();
+
+        void postData(Student studentobj);
     }
 }
